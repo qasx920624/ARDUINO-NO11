@@ -8,7 +8,7 @@
 右方按鈕按一次則減慢35<p>
 並且可以用序列阜監控視窗監控轉速<p>
 程式如下<p>
-c++```
+```c++
   int kk;
 void setup() {
   // put your setup code here, to run once:
