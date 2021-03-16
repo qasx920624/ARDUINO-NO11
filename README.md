@@ -49,3 +49,6 @@ void loop() {
 Serial.println(kk);
 }
 ```
+----------------
+圖片如下
+![image](https://github.com/qasx920624/ARDUINO-NO11/blob/main/27A17368-CF61-41B8-9B04-97D971E3C570.jpeg)
